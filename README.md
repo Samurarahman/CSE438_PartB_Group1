@@ -18,7 +18,7 @@
 
 ## 🔗 Google Colab Notebook
 
-👉 [Open Kaggle Notebook]([https://](https://www.kaggle.com/code/samurarahman14/partb-imageprep-baselines))
+👉 👉 [Open Kaggle Notebook](https://www.kaggle.com/code/samurarahman14/partb-imageprep-baselines)
 
 ---
 
