@@ -18,7 +18,7 @@
 
 ## 🔗 Google Colab Notebook
 
-👉 [Open Colab Notebook](https://colab.research.google.com/drive/YOUR_SHARED_LINK_HERE)
+👉 [Open Colab Notebook](https://colab.research.google.com/drive/YOUR_SHARED_LINK_HERE](https://www.kaggle.com/code/samurarahman14/partb-imageprep-baselines))
 
 ---
 
@@ -78,5 +78,5 @@ Each model was trained with the same data splits, augmentations, and evaluation 
 
 ### 1. Clone the project
 ```bash
-git clone https://github.com/yourusername/CSE438_PartB.git
-cd CSE438_PartB
+git clone https://github.com/Samurarahman/CSE438_PartB_Group1.git
+cd PartB ImagePrep Baselines
